@@ -1,0 +1,13 @@
+{
+  "project": {
+    "name": "iapp",
+    "version": "3.14",
+    "language": "CXX",
+    "standard": "20",
+    "required": "ON",
+    "type": "static"
+  },
+  "deps": [],
+  "assets": [
+  ]
+}
