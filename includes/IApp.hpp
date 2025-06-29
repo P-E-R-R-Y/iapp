@@ -10,6 +10,7 @@
 
     class IApp {
         public:
+            virtual ~IApp() = default;
             virtual int start() = 0;
     };
 
